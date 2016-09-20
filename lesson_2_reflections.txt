@@ -17,5 +17,6 @@ How would branches help?
 		When you want to test a new experimental feature for your app or put the project
 		in a new language.
 		
-
-
+QUESTION:How do the diagrams help you visualize the branch structure?
+	They all you to see the history and the parent of each commit which is really helpful.
+	This way you know whats getting deleted if you checkout a different branch.
