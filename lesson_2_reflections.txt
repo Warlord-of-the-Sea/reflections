@@ -27,3 +27,8 @@ Why do we represent it in the diagram the way we do?
 		useful but it didn't work this time for me. You use the diagram so its easier to see where
 		things are merging from. With the diagram you can easily see how things should turn out upon being
 		merged.
+
+QUESTION: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+		Auto merging seems to be much more convient that makes manual edits to "merge" a file. But it's
+		not perfect. You sometimes have to go in and manually merge to make sure the proper lines of
+		code are added.
