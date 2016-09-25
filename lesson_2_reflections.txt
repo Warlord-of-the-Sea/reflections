@@ -20,3 +20,10 @@ How would branches help?
 QUESTION:How do the diagrams help you visualize the branch structure?
 	They all you to see the history and the parent of each commit which is really helpful.
 	This way you know whats getting deleted if you checkout a different branch.
+
+QUESTION: What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+		The result for me honestly was a completely broken game. I can see how it would be really
+		useful but it didn't work this time for me. You use the diagram so its easier to see where
+		things are merging from. With the diagram you can easily see how things should turn out upon being
+		merged.
