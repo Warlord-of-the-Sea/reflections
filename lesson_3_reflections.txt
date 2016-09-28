@@ -17,3 +17,9 @@ QUESTION:What is the benefit of having a copy of the last known state of the rem
 		It allows you to continue working even when internet is not availible. (Yes, I did just
 		basically restate myself)
 
+QUESTION:How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+		You would have to collaborate using things like dropbox or google drive to share different
+		versions of the code. Accessing different versions would be much harder to do and not as fast
+		either. I don't really know what would be easier about version control w/o github. It seems
+		like a really useful tool that does all of the essentials well.
